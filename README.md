@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Adama-front/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Adama-front/Adama-front/output/snake.svg" alt="Snake animation" />
 
 ###
 
